@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+### This is the index page in markdown of my new blog
 
+more stuff will soon show up
