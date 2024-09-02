@@ -14,5 +14,7 @@ So, Ester and I have just returned from our thruhike of the Pct. It has been jus
 ![Mygg](../blog/docs/assets/images/Estermygg.jpg)
 
 ![Mygg](https://raketjan.github.io/blog/docs/assets/images/Estermygg.jpg)
+![Mygg](https://raketjan.github.io/blog/docs/assets/images/Estermygg.jpg)
+![Mygg](https://raketjan.github.io/blog/docs/assets/images/Estermygg.jpg)
 
 
