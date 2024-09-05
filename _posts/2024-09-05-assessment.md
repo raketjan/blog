@@ -3,7 +3,7 @@ title: "Assessment"
 date: 2024-09-05
 ---
 
-### Pre-training assessments
+### Pre-training Assessments
 
 I listened to the six episode Andrew Huberman and Andy Galpin podcast where Andy goes througn everything related to resistance and endurance training, recovery and supplements, and decided to go all in on a structured training program. 
 Andy talks about 9 exercise-induced adaptions, namely
@@ -19,6 +19,9 @@ Andy talks about 9 exercise-induced adaptions, namely
 - Long Duration (steady state, cardio. Ability to keep moving, more than 20 minutes)
 
 All of these have some assessments that I intend to do, and in a couple of months, or a year, I will do them again to see if I have improved.
+
+[Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness](https://www.hubermanlab.com/episode/dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness)
+
 
 ## Skill
 Gold standard is having a physical therapist, movement specialist go through all my ways of moving. I do have my naprapath Thobias who will definitely be able to assess my limitations and see if I can improve. Besides that
@@ -84,4 +87,3 @@ Men 35 ml/kg, wanna see men above 50 ml/kg (2.75km), 55ml/kg is optimal (60 is w
 You should maintain consistant output for 20 min, with nasal breathing only moving at a non moving pace, zone 2-3-4… 
 I will do 1 hour of nose-breathing running, and check how far i can go.
 
-![Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness](https://www.hubermanlab.com/episode/dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness))
