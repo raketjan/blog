@@ -44,14 +44,14 @@ Look for:
 You really don't have to assess these, but if you want to run a hundred meters etc.
 
 ## Power
-Broad jump, measure how far you can jump from standing. Try to jump your height.
-Vertical jump, measure how far you can reach on a wall with your fingertips. put something on your fingertips and jump as high as you can. If youre older than 50 years old 20 inches is fine (51cm).
+- Broad jump, measure how far you can jump from standing. Try to jump your height.
+- Vertical jump, measure how far you can reach on a wall with your fingertips. put something on your fingertips and jump as high as you can. If youre older than 50 years old 20 inches is fine (51cm).
 
 ## Strength
-Grip strength - buy a hand grip dynometer, minimum 40kg, ideally 60kg and no more than 10% difference between hands.
-Dead hang - hang from pullup bar as long as possible, minimum 30 seconds, above 60 seconds is good.
-Leg extension - One rep, above body weight is ideal up to 40 years old, and reduce by 10% per decade after.
-Front squat hold - hold a weight in front of you and hold the bottom position for 45 seconds.
+- Grip strength - buy a hand grip dynometer, minimum 40kg, ideally 60kg and no more than 10% difference between hands.
+- Dead hang - hang from pullup bar as long as possible, minimum 30 seconds, above 60 seconds is good.
+- Leg extension - One rep, above body weight is ideal up to 40 years old, and reduce by 10% per decade after.
+- Front squat hold - hold a weight in front of you and hold the bottom position for 45 seconds.
 All of these assume perfect form, don't do anything with poor form.
 
 Also think of a standard warm-up protocol prior to these one rep max tests.
