@@ -1,24 +1,22 @@
 {
   "fitnessAssessment": {
     "dateAssessed": "2024-09-01",
-    "weightKg": 80,
+    "weightKg": 70,
     "heightCm": 178,
-    "bmi": 24.7,
+    "bmi": ,
     "bodyFatPercentage": ,
+    "fatFreeMassIndex": ,
     "broadJumpCm": 177,
     "verticalJumpCm": ,
     "gripStrengthInKg": ,
-    "deadHangInSeconds": ,
-    "legExtension1repMaxInKg": ,
-    "frontSquatHold45SecInKg": ,
-    "fatFreeMassIndex": ,
+    "deadHangInSeconds": 60,
     "plankInSeconds": ,
     "sidePlankInSeconds": ,
     "pushupCount": ,
-    "HandStandAgainstWallInSeconds": ,
+    "HandStandAgainstWallInSeconds": 60,
     "LSitInSeconds": ,
     "3MinHeartRateRecovery": ,
     "12MinCooperInKm": ,
-    "1HourNoseBreatheRunInKm": 9
+    "1HourNoseBreatheRunInKm": 9.78
   }
 }
